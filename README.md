@@ -1,6 +1,6 @@
 # AM5450-Fundamentals-of-Finite-Element-Analysis
 
-This repository contains the 8 assignments under the course on Finite Element Analysis taken in the Jul Nov 2024 semester, including topics such as Galerkin method, Rayleigh Ritz method, 1D FEM for trusses, beams, frames, and 2D FEM analysis using isoparametric elements. Each folder contains the questions, MATLAB codes, and reports. Some of the results from selected assignments are presented below.
+This repository contains the assignments under the course on Finite Element Analysis taken in the Jul Nov 2024 semester, including topics such as Galerkin method, Rayleigh Ritz method, 1D FEM for trusses, beams, frames, and 2D FEM analysis using isoparametric elements. Each folder contains the questions, MATLAB codes, and reports. Some of the results from selected assignments are presented below.
 
 <p align="center">
   <em>Assignment 7: 2D beam using triangular elements</em><br>
